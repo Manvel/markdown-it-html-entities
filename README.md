@@ -1,5 +1,7 @@
 # markdown-it-html-entities
 
+[![Build Status](https://travis-ci.org/Manvel/markdown-it-html-entities.svg?branch=master)
+
 Currently [markdown-it](https://github.com/markdown-it/markdown-it) follows
 [CommonMark specs](https://spec.commonmark.org) which requires HTML Entities
 [replacement with Unicode
