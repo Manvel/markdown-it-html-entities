@@ -1,0 +1,27 @@
+{
+  "name": "markdown-it-html-entities",
+  "version": "1.0.0",
+  "description": "Disable HTML Entity to Unicode conversion in Markdown-it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manvel/markdown-it-html-entities.git"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "markdown-it-plugin",
+    "commonmark",
+    "entity",
+    "html-entity"
+  ],
+  "author": "Manvel Saroyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Manvel/markdown-it-html-entities/issues"
+  },
+  "homepage": "https://github.com/Manvel/markdown-it-html-entities#readme"
+}
