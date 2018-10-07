@@ -1,7 +1,7 @@
 {
   "name": "markdown-it-html-entities",
   "version": "1.0.0",
-  "description": "Disable HTML Entity to Unicode autoconversion in markdown-it"
+  "description": "Disable HTML Entity to Unicode autoconversion in markdown-it",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js"
@@ -27,6 +27,5 @@
   "devDependencies": {
     "markdown-it": "^8.4.2",
     "mocha": "^5.2.0"
-  },
-  "dependencies": {}
+  }
 }
