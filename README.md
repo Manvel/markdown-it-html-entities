@@ -7,11 +7,11 @@ Currently [markdown-it](https://github.com/markdown-it/markdown-it) follows
 [replacement with Unicode
 Characters](https://spec.commonmark.org/0.28/#entity-references) and currently
 there is no native way to disable [HTML
-Entities](https://developer.mozilla.org/en-US/docs/Glossary/Entity) autoconvertion.
+Entities](https://developer.mozilla.org/en-US/docs/Glossary/Entity) autoconversion.
 
-This plugin disables the automatic HTML Entities to Unicode convertion in
+This plugin disables the automatic HTML Entities to Unicode conversion in
 markdown-it and let the browser display expected character using HTML Entities
-accordingly, avoiding unexpected character convertion which might not play well
+accordingly, avoiding unexpected character conversion which might not play well
 if you would like to integrate the Markdown output with the system that expect
 HTML Entities and in general it's just adding support for using HTML Entities in
 the Markdown.

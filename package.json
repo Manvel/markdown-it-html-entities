@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-html-entities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Disable HTML Entity to Unicode autoconversion in markdown-it",
   "main": "index.js",
   "scripts": {
