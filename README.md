@@ -6,7 +6,12 @@ Currently [markdown-it](https://github.com/markdown-it/markdown-it) follows
 Character](https://spec.commonmark.org/0.28/#entity-references), though in the
 Browsers [HTML
 entities](https://developer.mozilla.org/en-US/docs/Glossary/Entity) are
-displayed using relevant characters accordingly out of the box.
+displayed using relevant characters without current functionality.
 
 This plugin is for disabling the HTML Entities to Unicode convertion for
 markdown-it.
+
+
+## Usage
+
+## Example
